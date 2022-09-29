@@ -10,6 +10,7 @@ Obtiene los datos de la API de https://giphy.com/
 * Desarrollar código sencillo y fácil de leer.
 * Desplegar proyecto en Netlify https://a-little-gif-expert-app-with-react.netlify.app
 * Desplegar proyecto en Github Pages https://slizbeth.github.io/react-gif-expert-app
+* Utilizar testing-library.
 
 ## Tecnologías utilizadas 🛠️
 * Vite
